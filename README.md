@@ -54,6 +54,10 @@ Calculates CGPA based on the grades or grade points entered by the user.
 
 17. Rock, Paper, Scissors Game
 A simple game where the user plays rock, paper, or scissors against the computer.
+18.Vote Eligibility Check
+It checks whether a person is eligible to vote or not.
+19.Day Determiner
+It helps to know which day is on week from 1-7.
 
 Language Used
 C++
@@ -74,3 +78,6 @@ C++
 <img width="362" height="198" alt="Screenshot 2026-10-18 111528" src="https://github.com/user-attachments/assets/33993a08-d212-4697-9d8f-065ce2d4c202" />
 <img width="355" height="172" alt="Screenshot 2026-10-18 110702" src="https://github.com/user-attachments/assets/1fdc0886-1cb2-4b73-b8c9-def4686a9f0d" />
 <img width="348" height="133" alt="Screenshot 2026-10-18 105226" src="https://github.com/user-attachments/assets/ae1c56fa-9b1b-41bf-b3f7-faa55ea3e436" />
+.<img width="350" height="165" alt="Screenshot 2026-10-21 185403" src="https://github.com/user-attachments/assets/9a4cf2a6-58fa-4309-beec-10bf0353b543" />
+<img width="346" height="165" alt="Screenshot 2026-10-21 185209" src="https://github.com/user-attachments/assets/e1b37eed-cf44-4af1-bbe4-38fa6bcfa0c4" />
+
